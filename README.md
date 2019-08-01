@@ -1,24 +1,5 @@
-# README
+Bienvenue dans Freedoc, l'appli tueuse de Doctolib!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Pour vérifier que les fonctionnalités sont actives, fait rails db:seed  et ça affichera sur le Terminal des infos qui montreront que tout est bien relié.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
